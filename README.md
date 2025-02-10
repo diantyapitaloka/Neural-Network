@@ -7,5 +7,6 @@ Through the use of neural networks, we can see their practical applications in e
 
 ### AI Taxonomy  
 First things first, before learning about neural networks and deep learning, it is beneficial to understand their position within this field to gain a more comprehensive perspective. This hierarchy is called AI taxonomy, which illustrates the evolution of concepts and technologies in artificial intelligence, ranging from artificial intelligence (AI) to deep learning (DL).
+
 <img width="457" alt="image" src="https://github.com/user-attachments/assets/f70a1f7f-bb0c-4714-bb93-4c8ca6a3e0f2" />
 
