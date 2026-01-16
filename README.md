@@ -7,6 +7,7 @@
 - Through the use of neural networks, we can see their practical applications in everyday life, from recommendation systems on streaming platforms to autonomous vehicles that can recognize their surroundings.
 - Layered Architecture and Depth At the heart of these systems are input, hidden, and output layers that process data in sequential stages. As data passes through more hidden layers, the network can capture increasingly abstract features, a process commonly known as deep learning.
 - Weight Adjustments and Learning During the training phase, the network adjusts the mathematical weights of its connections to minimize errors in its outputs. This iterative optimization allows the system to fine-tune its accuracy until it can reliably identify specific trends or objects.
+- Handling Unstructured Data Unlike traditional algorithms that require neatly organized spreadsheets, neural networks excel at interpreting "messy" data like raw audio or pixels. This flexibility makes them indispensable for modern tasks such as real-time voice translation and medical imaging analysis.
 
 ### 🍦🧁🦪 AI Taxonomy 🦪🧁🍦
 First things first, before learning about neural networks and deep learning, it is beneficial to understand their position within this field to gain a more comprehensive perspective. This hierarchy is called AI taxonomy, which illustrates the evolution of concepts and technologies in artificial intelligence, ranging from artificial intelligence (AI) to deep learning (DL).
