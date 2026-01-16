@@ -1,7 +1,6 @@
 # 🍦🧁🦪 Neural-Network 🦪🧁🍦
-- In this era of modern computing, neural networks have become one of the core components of artificial intelligence. This concept is inspired by the biological neural networks of humans and can transform the way computers learn in various complex tasks.  
-
-With their ability to process information through millions of artificial neuron connections, neural networks can recognize patterns in data, make predictions, and even learn from experience like humans. This opens the door to significant advancements in image recognition, natural language processing, robotics, and many other fields.  
+- In this era of modern computing, neural networks have become one of the core components of artificial intelligence. This concept is inspired by the biological neural networks of humans and can transform the way computers learn in various complex tasks.
+- With their ability to process information through millions of artificial neuron connections, neural networks can recognize patterns in data, make predictions, and even learn from experience like humans. This opens the door to significant advancements in image recognition, natural language processing, robotics, and many other fields.  
 
 Through the use of neural networks, we can see their practical applications in everyday life, from recommendation systems on streaming platforms to autonomous vehicles that can recognize their surroundings.  
 
