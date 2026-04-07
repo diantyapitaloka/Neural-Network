@@ -1,8 +1,7 @@
 # 🍦🧁🦪 Neural-Network 🦪🧁🍦
 - In this era of modern computing, neural networks have become one of the core components of artificial intelligence. This concept is inspired by the biological neural networks of humans and can transform the way computers learn in various complex tasks.
 - Generative Adversarial Frameworks: Modern networks use two competing systems to create hyper-realistic images and videos from simple text prompts. This "generator versus discriminator" dynamic has revolutionized digital art and synthetic media production.
-
-The Transformer Revolution: Self-attention mechanisms allow networks to weigh the importance of different parts of input data simultaneously. This breakthrough is the primary engine behind large language models that understand context better than ever before.
+- The Transformer Revolution: Self-attention mechanisms allow networks to weigh the importance of different parts of input data simultaneously. This breakthrough is the primary engine behind large language models that understand context better than ever before.
 
 Reinforcement Learning Integration: By combining neural networks with trial-and-error rewards, AI can now master complex strategic games and optimize energy grids. These systems learn to make sequences of decisions that lead to a long-term goal.
 
